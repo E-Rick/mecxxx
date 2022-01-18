@@ -1,0 +1,11 @@
+{
+  "name": "mecxxx",
+  "version": "1.0.0",
+  "description": "Pledge Landing Page",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Martinez Jr.",
+  "license": "ISC"
+}
